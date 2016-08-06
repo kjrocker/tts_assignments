@@ -3,10 +3,10 @@
 - [ ] Front End Foundations
 - [ ] Intro to HTML/CSS Challenge
 - [ ] Build a form w/ CSS
-- [ ] Google Homepage Challenge
+- [x] Google Homepage Challenge [HERE][Google_Homepage]
 - [ ] Good Coffee Challenge
 - [ ] Create Portfolio Site
-- [ ] JS Tip Calculator
+- [x] JS Tip Calculator [HERE][JS_Tip_Calc]
 
 # Javascript App Development
 
@@ -19,3 +19,6 @@
 - [x] Scopes, Chains, Closures
 - [ ] Functional JS
 - [ ] Prototypes
+
+[Google_Homepage]: https://github.com/krocker34/google_replica
+[JS_Tip_Calc]: https://github.com/krocker34/tts_assignments/blob/master/tip_calculator.js
