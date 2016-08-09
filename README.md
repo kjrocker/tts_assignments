@@ -12,13 +12,14 @@
 
 - [ ] Asynchronous Slideshow Assignment
 - [ ] Mixin Challenge
+- [ ] Reading w/ 1 line per chapter submission
 
 ## Nodeschool Assignments
 
 - [x] Javascripting
 - [x] Scopes, Chains, Closures
 - [ ] Functional JS
-- [ ] Prototypes
+- [x] Prototypes
 
 [Google_Homepage]: https://github.com/krocker34/google_replica
 [JS_Tip_Calc]: https://github.com/krocker34/tts_assignments/blob/master/tip_calculator.js
