@@ -7,12 +7,13 @@
 - [ ] Good Coffee Challenge
 - [ ] Create Portfolio Site
 - [x] JS Tip Calculator [HERE][JS_Tip_Calc]
+- [x] Pizza Site
 
 # Javascript App Development
 
-- [ ] Asynchronous Slideshow Assignment
+- [x] Asynchronous Slideshow Assignment
 - [ ] Mixin Challenge
-- [ ] Reading w/ 1 line per chapter submission
+- [x] Reading w/ 1 line per chapter submission
 
 ## Nodeschool Assignments
 
